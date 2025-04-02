@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "./style.css";
 import { useForm } from "react-hook-form";
-import Login from "./login";
+import Login from "./Login";
 import axios from "axios";
 import toast from "react-hot-toast";
 function Signup() {

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import Card from "./card";  
+import Card from "./Card";  
 import axios from 'axios';
 
 function Freebook() {

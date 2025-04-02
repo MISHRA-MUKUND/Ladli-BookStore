@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Login from "./login";
+import Login from "./Login";
 import { useAuth } from "../context/AuthProvider";
 import { useTheme } from "../context/ThemeProvider";
 import Logout from "./Logout";
